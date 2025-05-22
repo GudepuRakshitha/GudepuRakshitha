@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gudeppu Rakshitha</h1>
+<h1 align="center">Hi 👋, I'm Gudepu Rakshitha</h1>
 <h3 align="center">AI/ML Developer | B.Tech CSE @ Alliance University | Tech Enthusiast
 
 ---
