@@ -1,28 +1,24 @@
 <h1 align="center">Hi 👋, I'm Gudeppu Rakshitha</h1>
-<h3 align="center">AI/ML Developer | B.Tech CSE @ Alliance University | Tech Enthusiast | Anime Lover</h3>
+<h3 align="center">AI/ML Developer | B.Tech CSE @ Alliance University | Tech Enthusiast
 
 ---
 
 ## 💫 About Me
 
-🎓 I’m currently pursuing **B.Tech in Computer Science & Engineering** (AI/ML Focus) at Alliance University.    
-• Advanced **Machine Learning Models**  
-• Real-time AI tools like **QR Scam Detection**, **Study Planners**, and **Smart Attendance Systems**  
+🎓 I’m currently pursuing a **Bachelor of Technology in Computer Science and Engineering** with a specialization in **Artificial Intelligence and Machine Learning** at Alliance University, Bengaluru.
 
-👯 I’m looking to collaborate on:  
-• AI/ML, Deep Learning, and Full-Stack projects.  
+💡 My primary areas of interest include:  
+• Developing **advanced machine learning models**  
+• Building real-time AI tools such as **QR code scam detection systems**, **AI-driven study planners**, and **facial recognition-based attendance systems**
 
-🤝 I’m looking for help with:  
-• **My Portfolio Website** and UI/UX improvement.  
+👯 I’m open to collaborations on:  
+• **AI/ML research**, **deep learning models**, and **full-stack development projects**
 
-🌱 I’m currently learning:  
-• Deep Learning, Generative AI, and Web Development frameworks.  
+🤝 I’m currently seeking guidance and collaboration on:  
+• Designing and developing a **personal portfolio website** with strong UI/UX principles
 
-💬 Ask me about:  
-• AI, ML, Career in Tech, and... Anime 🎌  
-
-⚡ Fun fact:  
-• I binge anime after debugging code. Balance is everything! 😄
+🌱 I’m continuously learning and expanding my skill set in:  
+• **Deep Learning**, **Generative AI**, and **modern web development frameworks**
 
 ---
 
@@ -33,41 +29,42 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/gudepurakshitha)
 
 ---
-
 ## 💻 Tech Stack
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
+### Languages  
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-**ML/AI Libraries:**  
-![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=flat&logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+### ML/AI Libraries  
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
 
-**Frameworks & Tools:**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
-![Tkinter](https://img.shields.io/badge/Tkinter-336699?style=flat)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+### Frameworks & Tools  
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-336699?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
 
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gudepurakshitha&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://streak-stats.demolab.com?user=gudepurakshitha&theme=radical" width="45%"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudepurakshitha&layout=compact&theme=radical" width="45%"/>
@@ -113,10 +110,9 @@
 
 ## 🤝 Let’s Connect!
 
-- ✉️ Email: gudepurakshithareddy03@gmail.com  
-- 🧠 Portfolio Coming Soon  
-- 📌 Based in Bengaluru, India
-
+- ✉️ Email: gudepurakshithareddy03@gmail.com   
+- LinkedIn : https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+- HuggingFace :https://huggingface.co/GudepuRakshithaReddy
 ---
 
-<p align="center">Thanks for stopping by! 💻🚀</p>
+<p align="center">Thanks for Visiting My profile! 💻🚀</p>
