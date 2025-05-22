@@ -2,8 +2,11 @@
 <h3 align="center">AI/ML Developer | B.Tech CSE @ Alliance University | Tech Enthusiast
 
 ---
+# 💫 About Me
 
-## 💫 About Me
+<p align="center">
+  <img src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" width="300" alt="anime coding gif"/>
+</p>
 
 🎓 I’m currently pursuing a **Bachelor of Technology in Computer Science and Engineering** with a specialization in **Artificial Intelligence and Machine Learning** at Alliance University, Bengaluru.
 
@@ -19,6 +22,7 @@
 
 🌱 I’m continuously learning and expanding my skill set in:  
 • **Deep Learning**, **Generative AI**, and **modern web development frameworks**
+
 
 ---
 
